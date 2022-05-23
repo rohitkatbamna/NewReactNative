@@ -1,0 +1,194 @@
+{
+    “program_trans_status”: “false”,
+    “program_name”: “Master of Business Administration”,
+    “last_name”: “Kompa”,
+    “passport_no”: “null”,
+    “local_lang_name”: “null”,
+    “pan_no”: “null”,
+    “middle_name”: “Bhimashankar”,
+    “admission_repeated_status”: “false”,
+    “univ_roll_no”: “null”,
+    “mothers_name”: “Sangeeta”,
+    “local_lang_fathers_name”: “null”,
+    “DOB”: “null”,
+    “aadhar_no”: “716758000000",
+    “guardians_name”: “null”,
+    “roll_number”: “2021AUGVPGP1004",
+    “first_name”: “kavya”,
+    “age”: 0,
+    “levels”: [
+      {
+        “end_date”: “2021-10-31 23:59:59.999",
+        “courses”: [
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “B”,
+            “course_code”: “JSIN102",
+            “pass_status”: “null”,
+            “course_name”: “Quantitative Techniques in Management”,
+            “Repeated”: false,
+            “course_credits”: 2
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “C+“,
+            “course_code”: “JSIU101",
+            “pass_status”: “null”,
+            “course_name”: “Spread sheet Modelling “,
+            “Repeated”: false,
+            “course_credits”: 2
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “B+“,
+            “course_code”: “JSPF103",
+            “pass_status”: “null”,
+            “course_name”: “Introduction to Accounting & Finance “,
+            “Repeated”: false,
+            “course_credits”: 2
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “C+“,
+            “course_code”: “JSPM104",
+            “pass_status”: “null”,
+            “course_name”: “Principles of Management”,
+            “Repeated”: false,
+            “course_credits”: 2
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “A+“,
+            “course_code”: “JSPP001",
+            “pass_status”: “null”,
+            “course_name”: “Business Communication - I”,
+            “Repeated”: false,
+            “course_credits”: 3
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “C+“,
+            “course_code”: “JSUD101",
+            “pass_status”: “null”,
+            “course_name”: “Spreadsheet Modelling (SSM)“,
+            “Repeated”: false,
+            “course_credits”: 2
+          }
+        ],
+        “code”: “2021/PG/MBA-JAGSOM/Independence-1",
+        “cgpa_calculation_status”: “false”,
+        “tgpa”: 7.384615384615385,
+        “level_name”: “Independence-1”,
+        “syllabus_freeze”: false,
+        “result_applicable”: false,
+        “result_declared”: false,
+        “on_leave”: “false”,
+        “sgpa_calculation_status”: “true”,
+        “cgpa”: 7.384615384615385,
+        “start_date”: “2021-08-01 00:00:00.0”
+      },
+      {
+        “end_date”: “2022-02-02 23:59:59.999”,
+        “courses”: [
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “C+“,
+            “course_code”: “JSMD208",
+            “pass_status”: “null”,
+            “course_name”: “Decision Making Science”,
+            “Repeated”: false,
+            “course_credits”: 3
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “B”,
+            “course_code”: “JSMF204”,
+            “pass_status”: “null”,
+            “course_name”: “Business Economics”,
+            “Repeated”: false,
+            “course_credits”: 3
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “C”,
+            “course_code”: “JSMF212",
+            “pass_status”: “null”,
+            “course_name”: “CORPORATE FINANCE”,
+            “Repeated”: false,
+            “course_credits”: 3
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “B”,
+            “course_code”: “JSMH205”,
+            “pass_status”: “null”,
+            “course_name”: “Behavioural Science “,
+            “Repeated”: false,
+            “course_credits”: 3
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “B”,
+            “course_code”: “JSMM207”,
+            “pass_status”: “null”,
+            “course_name”: “MARKETING MANAGEMENT”,
+            “Repeated”: false,
+            “course_credits”: 3
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “A”,
+            “course_code”: “JSMP009",
+            “pass_status”: “null”,
+            “course_name”: “DESIGN THINKING”,
+            “Repeated”: false,
+            “course_credits”: 2
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “C+“,
+            “course_code”: “JSPF203",
+            “pass_status”: “null”,
+            “course_name”: “Managerial Accounting”,
+            “Repeated”: false,
+            “course_credits”: 2
+          },
+          {
+            “feedback”: 2,
+            “credit_trans_status”: “false”,
+            “course_grade”: “A+“,
+            “course_code”: “JSUP002 “,
+            “pass_status”: “null”,
+            “course_name”: “BUSINESS COMMUNICATION-2",
+            “Repeated”: false,
+            “course_credits”: 1
+          }
+        ],
+        “code”: “2021/PG/MBA-JAGSOM/Festivals-1",
+        “cgpa_calculation_status”: “false”,
+        “tgpa”: 6.8,
+        “level_name”: “Festivals-1”,
+        “syllabus_freeze”: false,
+        “result_applicable”: false,
+        “result_declared”: false,
+        “on_leave”: “false”,
+        “sgpa_calculation_status”: “true”,
+        “cgpa”: 7.03030303030303,
+        “start_date”: “2021-11-08 00:00:00.0”
+      }
+    ],
+    “fathers_name”: “Bhimashankar”
+  }
